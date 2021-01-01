@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://sinseoyugi.netlify.app/sitemap.xml
