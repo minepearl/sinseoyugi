@@ -146,7 +146,7 @@ body {
 }
 
 .subtitle{
-  font-family: 궁서;
+  font-family: NanumSquareR;
   line-height: 1.53;
   text-align: center;
   color: #35465d;
@@ -306,4 +306,14 @@ body {
   border-radius: 10px;
   width: 100%;
   background-color: rgb(255, 197, 170);
+}
+.person-label{
+  width: 20%;
+    text-align: left;
+    height: 2rem;
+    font-size: 130%;
+}
+#label-container {
+  width: 80%;
+  margin: 0 auto;
 }
